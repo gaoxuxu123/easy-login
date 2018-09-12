@@ -1,0 +1,24 @@
+{
+  "name": "yii2-login",
+  "type": "library",
+  "description": "QQ登录和微信登录封装在Yii2框架扩展。",
+  "keywords": ["Yii2", "Yii", "QQ", "weixin","qq"],
+  "homepage": "https://github.com/gaoxuxu123/easy-login",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "moxiaoxuancc",
+      "email": "moxiaoxuancc@126.com"
+    }
+  ],
+  "require": {
+
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "easy\\auth\\": "src/"
+    }
+  },
+  "minimum-stability": "stable"
+}
