@@ -1,5 +1,5 @@
 {
-  "name": "yii2-login",
+  "name": "yii2-login/login",
   "type": "library",
   "description": "QQ登录和微信登录封装在Yii2框架扩展。",
   "keywords": ["Yii2", "Yii", "QQ", "weixin","qq"],
